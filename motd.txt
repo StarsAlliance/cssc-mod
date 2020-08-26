@@ -35,6 +35,6 @@ a:hover {
 You are playing Counter-Strike: Source Classic
 Visit the official CS web site @
 css-classic.starsa.ru
-<a href="http://css-classic.starsa.ru">Visit Modification Homepage</a>
+<a href="http://stars-allince.ru/cssc/">Visit Modification Homepage</a>
 </body>
 </html>
